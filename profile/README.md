@@ -49,14 +49,14 @@ Renderly Studio is an AI-powered image and video generation platform designed to
     <tr>
     <td width="90" valign="middle" align="center">
       <a href="#">
-        <img src="https://github.com/github.png?size=96"
+        <img src="https://github.com/KarthikChekuri.png?size=96"
              width="80" height="80"
              alt="another founder"
              style="border-radius:50%;">
       </a>
     </td>
     <td valign="middle">
-      <h3 style="margin:0 0 6px 0;"><a href="#">@another-founder</a></h3>
+      <h3 style="margin:0 0 6px 0;"><a href="https://github.com/KarthikChekuri">@KarthikChekuri</a></h3>
     </td>
   </tr>
 </table>
