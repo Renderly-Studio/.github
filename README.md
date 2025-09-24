@@ -14,21 +14,15 @@
 
 </div>
 
----
-
 ## 👋 About Us
 
 Renderly Studio is an AI-powered image and video generation platform designed to make creating **professional-quality visuals accessible to everyone**. Our intuitive and user-friendly interface simplifies the complexities of **AI prompting**, allowing you to generate stunning images for personal or commercial use without needing prior expertise. We offer a **curated catalog of high-quality assets** like outfits, poses, and backgrounds that you can easily use with a drag-and-drop system. Our platform is built to support a wide range of creators, from casual users and influencers to **brands and businesses**, helping them produce everything from social media content and brand assets to virtual fashion prototypes and marketing materials.
-
----
 
 ## 🔗 Links
 
 <a href="renderlystudio.com">
   <img src="https://img.shields.io/badge/Landing%20Page-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Landing Page">
 </a>
-
----
 
 ## 💼 Founders
 
@@ -44,7 +38,6 @@ Renderly Studio is an AI-powered image and video generation platform designed to
     </td>
     <td valign="middle">
       <h3 style="margin:0 0 6px 0;">Managed by <a href="https://github.com/aditsuru-git">@aditsuru-git</a></h3>
-      <p style="margin:0;">Maintainer • Mentor • Organizer</p>
     </td>
   </tr>
     <tr>
@@ -58,7 +51,6 @@ Renderly Studio is an AI-powered image and video generation platform designed to
     </td>
     <td valign="middle">
       <h3 style="margin:0 0 6px 0;">Managed by <a href="#">@another-founder</a></h3>
-      <p style="margin:0;">Maintainer • Mentor • Organizer</p>
     </td>
   </tr>
 </table>
