@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Renderly-Studio">
-    <img src="./assets/logo.png" alt="Logo" width="250" height="250">
+    <img src="./assets/logo.png" alt="Logo" width="200" height="200">
   </a>
   <h3 align="center">AI Powered Canvas</h3>
   
