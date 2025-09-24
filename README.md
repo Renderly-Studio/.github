@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Renderly-Studio">
-    <img src="./assets/logo.png" alt="Logo" width="100" height="100">
+    <img src="./assets/logo.png" alt="Logo" width="150" height="150">
   </a>
   <h3 align="center">AI Powered Canvas</h3>
   
@@ -15,6 +15,12 @@
 </div>
 
 ## 👋 About Us
+
+<div align="center">
+  <img src="./assets/banner.webp" alt="Renderly Studio Banner" >
+</div>
+
+<br>
 
 Renderly Studio is an AI-powered image and video generation platform designed to make creating **professional-quality visuals accessible to everyone**. Our intuitive and user-friendly interface simplifies the complexities of **AI prompting**, allowing you to generate stunning images for personal or commercial use without needing prior expertise. We offer a **curated catalog of high-quality assets** like outfits, poses, and backgrounds that you can easily use with a drag-and-drop system. Our platform is built to support a wide range of creators, from casual users and influencers to **brands and businesses**, helping them produce everything from social media content and brand assets to virtual fashion prototypes and marketing materials.
 
