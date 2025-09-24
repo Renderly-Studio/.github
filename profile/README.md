@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Renderly-Studio">
-    <img src="./assets/logo.png" alt="Logo" width="200" height="200">
+    <img src="../assets/logo.png" alt="Logo" width="200" height="200">
   </a>
   <h3 align="center">AI Powered Canvas</h3>
   
@@ -17,7 +17,7 @@
 ## 👋 About Us
 
 <div align="center">
-  <img src="./assets/banner.webp" alt="Renderly Studio Banner" >
+  <img src="../assets/banner.webp" alt="Renderly Studio Banner" >
 </div>
 
 <br>
@@ -43,7 +43,7 @@ Renderly Studio is an AI-powered image and video generation platform designed to
       </a>
     </td>
     <td valign="middle">
-      <h3 style="margin:0 0 6px 0;">Managed by <a href="https://github.com/aditsuru-git">@aditsuru-git</a></h3>
+      <h3 style="margin:0 0 6px 0;"><a href="https://github.com/aditsuru-git">@aditsuru-git</a></h3>
     </td>
   </tr>
     <tr>
@@ -56,7 +56,7 @@ Renderly Studio is an AI-powered image and video generation platform designed to
       </a>
     </td>
     <td valign="middle">
-      <h3 style="margin:0 0 6px 0;">Managed by <a href="#">@another-founder</a></h3>
+      <h3 style="margin:0 0 6px 0;"><a href="#">@another-founder</a></h3>
     </td>
   </tr>
 </table>
