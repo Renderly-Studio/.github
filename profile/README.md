@@ -26,7 +26,7 @@ Renderly Studio is an AI-powered image and video generation platform designed to
 
 ## 🔗 Links
 
-<a href="renderlystudio.com">
+<a href="https://www.renderlystudio.com/">
   <img src="https://img.shields.io/badge/Landing%20Page-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Landing Page">
 </a>
 
